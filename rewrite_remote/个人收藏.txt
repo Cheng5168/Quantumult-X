@@ -4,4 +4,4 @@
 
 # 作者：xxx
 
-# 网址：xxx
+# 网址：https://github.com/Cheng5168/Quantumult-X
