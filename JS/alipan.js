@@ -1,20 +1,4 @@
-/*************************************
-
-项目名称：阿里云盘 净化/解锁SVIP
-下载地址：https://t.cn/A6GqTACm
-脚本作者：chxm1023
-使用声明：⚠️仅供参考，🈲转载与售卖！
-使用说明：非一次性解锁，每次解锁需打开脚本
-
-**************************************
-
-[rewrite_local]
-^https?:\/\/(api|member)\.(aliyundrive|alipan)\.com\/(.+\/(users|activity|user\/get)|((business|apps)\/.+\/users|adrive\/.+\/user)) url script-response-body https://raw.githubusercontent.com/Cheng5168/Quantumult-X/main/JS/alipan.js
-
-[mitm]
-hostname = *.aliyundrive.com, *.alipan.com
-
-*************************************/
+/ 名称：阿里云盘 净化/解锁SVIP /
 
 
 var body = $response.body;
