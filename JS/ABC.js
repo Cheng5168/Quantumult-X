@@ -1,5 +1,4 @@
 {
-
 } else if (url.includes("/mobilepaas.abchina.com.cn:441/mgw")) {
   // 中国农业银行开屏广告
   const listbankabc = [
